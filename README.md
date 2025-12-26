@@ -6,7 +6,7 @@
 
 1. Настройте postgreSQL локально
 ```bash
-git clone https://github.com/Anubisworkingexperience/dashboard-server
+git clone https://github.com/anyreacher/dashboard-server
 cd dashboard-server
 psql
 ```
